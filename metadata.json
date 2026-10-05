@@ -1,0 +1,7 @@
+{
+  "name": "KIU Research Intelligence Lab",
+  "description": "AI-Powered Research Discovery, Gap Analysis & FYP/MS/PhD Research Advisor for Karakoram International University and global scholarly literature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
